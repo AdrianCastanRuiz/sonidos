@@ -1,0 +1,14 @@
+{
+  "sonidos": [
+    {
+      "tipo": "correcto",
+      "url": "https://github.com/AdrianCastanRuiz/sonidos/raw/refs/heads/main/correct.mp3",
+      "": ""
+    },
+    {
+      "tipo": "incorrecto",
+      "url": "https://github.com/AdrianCastanRuiz/sonidos/raw/refs/heads/main/wrong.mp3",
+      "": ""
+    }
+  ]
+}
